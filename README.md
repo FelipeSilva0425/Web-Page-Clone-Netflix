@@ -11,7 +11,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - [x] CSS
 - [x] JavaScript
 
-Resultado: https://mellow-hamster-9dc98c.netlify.app/
+Resultado: 
 
 
 ## 🤝 Colaboradores
