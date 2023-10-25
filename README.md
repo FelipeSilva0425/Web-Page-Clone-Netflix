@@ -21,7 +21,7 @@ Pessoa que contribuiu para este projeto:
 <table>
   <tr>
     <td align="center">
-        <img src="./felipe" width="100px;" alt="Foto do Felipe"/><br>
+        <img src="./felipe.img1.jpg" width="100px;" alt="Foto do Felipe"/><br>
         <sub>
           <b> Felipe Silva </b>
         </sub>
